@@ -1,5 +1,5 @@
 # Citizen Browser - Political Group Recommendations
-This repository contains code to reproduce the findings featured in our story, "[Facebook Said It Would Stop Pushing Users to Join Political Groups. It Didn’t.](https://themarkup.org/citizen-browser/2021/01/19/facebook-said-it-would-stop-pushing-users-to-join-political-groups-it-didn’t)" from our series, [Citizen Browser](https://themarkup.org/citizen-browser/).
+This repository contains code to reproduce the findings featured in our story, "[Facebook Said It Would Stop Pushing Users to Join Partisan Political Groups. It Didn’t.](https://themarkup.org/citizen-browser/2021/01/19/facebook-said-it-would-stop-pushing-users-to-join-partisan-political-groups-it-didnt)" from our series, [Citizen Browser](https://themarkup.org/citizen-browser/).
 
 Our methodology is described in "[How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)".
 
